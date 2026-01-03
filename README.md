@@ -1,6 +1,6 @@
 # Leonardo ALves Almeida Moulin
 
-**`Desenvolvedora Back-End`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu ultimo período da faculdade de ciência da computação Pela Unicarioca, sempre gostei de computadores e tive curiosidade para saber como os programas funcionavam, meu gosto me levou para a linguagem java e o mundo do desenvolvimento back-end no qual gosto muito. 
 
