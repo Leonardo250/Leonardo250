@@ -5,11 +5,18 @@
 Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu ultimo período da faculdade de ciência da computação Pela Unicarioca, sempre gostei de computadores e tive curiosidade para saber como os programas funcionavam, meu gosto me levou para a linguagem java e o mundo do desenvolvimento back-end no qual gosto muito. 
 
 <p align="left">
-    <a href="https://github.com">
+    <a href="https://github.com/Leonardo250?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star&style=flat"
+        />
+    </a>
+    <a href="https://github.com/Leonardo250?tab=repositories">
+        <img 
+            alt="Repositorios" 
+            title="Repositorios" 
+            src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
         />
     </a>
     <a href="https://github.com/Leonardo250?tab=followers">
