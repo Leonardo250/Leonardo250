@@ -164,7 +164,7 @@ Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu u
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo250&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo250&theme=dark)](https://git.io/streak-stats)"
   />
 
 </p>
