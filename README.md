@@ -12,15 +12,6 @@ Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu u
             src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star&style=flat"
         />
     </a>
-    ****
-        <a href="https://github.com">
-        <img 
-            alt="Contribuições totais" 
-            title="Total de contribuições" 
-            src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson"
-        />
-    </a>
-    ****
     <a href="https://github.com/Leonardo250?tab=followers">
         <img 
             alt="Seguidores" 
