@@ -98,27 +98,27 @@ Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu u
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="RabbitMQ" 
+    title="RabbitMQ"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Maven" 
+    title="Maven"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Json" 
+    title="Json"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" 
 />
 <img 
     align="left" 
@@ -138,16 +138,16 @@ Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu u
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <br/>
 <br/>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Leonardo250&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 
