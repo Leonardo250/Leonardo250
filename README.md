@@ -151,12 +151,17 @@ Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu u
 ### 📊 Estatísticas
 
 <p>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=Leonardo250&show_icons=true&theme=radical" 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 
@@ -164,7 +169,7 @@ Me chamo Leonardo Alves Almeida Moulin tenho 23 anos e atualmente estou no meu u
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://streak-stats.demolab.com/?user=Leonardo250&theme=dark"
+      src=
   />
 
 </p>
